@@ -67,18 +67,3 @@ The system consists of the following components:
    - Configure connection strings
    - Update API keys and endpoints
 
-## Usage
-
-[Detailed usage instructions will be added as the project develops]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[License information to be added]
-
-## Contact
-
-For any queries regarding this project, please open an issue in the repository.
